@@ -4,7 +4,7 @@
 
 ### 1.1. Visão Geral
 O projeto "Sabores da Fazenda" tem como objetivo desenvolver um sistema de gestão para uma queijaria, permitindo a administração eficiente da produção, estoque, vendas e clientes. Esta documentação aborda a arquitetura e implementação dos bancos de dados, bem como as alterações necessárias para integrar o front-end desenvolvido anteriormente.
-![Diagrama ER](images/diagrama_sabores_da_fazenda.png)
+![Diagrama ER](img_Sabores_da_Fazenda.png)
 ### 1.2. Objetivos do Projeto
 - Criar bancos de dados relacionais para gerenciar todos os aspectos da queijaria.
 - Implementar funcionalidades de controle de produção, estoque e vendas.
