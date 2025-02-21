@@ -128,7 +128,7 @@ O front-end foi desenvolvido utilizando HTML, CSS e JavaScript (puro), fornecend
 - Associação de produções aos funcionários responsáveis.
 
 ### 5.3. Gestão de Vendas
-- Registro de vendas e relatórios de vendas.
+- Registro de vendas e também relatórios de vendas.
 - Cadastro e gestão de informações dos clientes.
 
 ### 5.4. Relatórios
